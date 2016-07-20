@@ -18,3 +18,10 @@ MotionGraphsAppDelegate — A standard implementation of the UIApplicationDelega
 
 If you run the compiled application on a device that does not have a gyroscope, no gyroscope or device motion data will be available. You cannot effectively run the application on the simulator.
 
+OBSERVATIONS:
+
+This application was created based on an Apple example: https://developer.apple.com/library/ios/samplecode/MotionGraphs/Introduction/Intro.html
+
+I developed this application in Spring 2014 (but I just uploaded it to Github in 2016, :| ). Therefore, there may be some deprecated packages or commands in use. I compiled it before upload and it still works!
+
+At this point, you have to hardcode the IP address that you want to FTP the data to. It should be pretty simple to create a new View and add that information though.
